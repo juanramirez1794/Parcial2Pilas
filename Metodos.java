@@ -1,3 +1,4 @@
+// JUAN FERNANDO RAMIREZ MONSALVE
 package Parcial2Pilas;
 import java.util.Scanner;
 import java.util.Stack;
